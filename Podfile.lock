@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.3)
+  - TFHpple (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - TFHpple
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - TFHpple
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  TFHpple: a916fe0799eb30aa29b2670d14d5868cdd3a5b81
+
+PODFILE CHECKSUM: 63c74d5598de336da4df088c252692bd57ad9944
+
+COCOAPODS: 1.5.3
